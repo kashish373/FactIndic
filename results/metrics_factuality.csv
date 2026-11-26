@@ -1,0 +1,7 @@
+dataset,method,avg_entailment,pct_sentences_supported
+hindi,baseline,0.639,70.8
+hindi,factual,0.579,57.1
+hindi_cm,baseline,0.663,69.1
+hindi_cm,factual,0.538,51.7
+bengali,baseline,0.564,57.1
+bengali,factual,0.519,53.3

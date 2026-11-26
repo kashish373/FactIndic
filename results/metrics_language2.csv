@@ -1,0 +1,7 @@
+dataset,method,english_summaries,out_of
+hindi,baseline,1,20
+hindi,factual,0,20
+hindi_cm,baseline,0,20
+hindi_cm,factual,0,20
+bengali,baseline,0,20
+bengali,factual,0,20

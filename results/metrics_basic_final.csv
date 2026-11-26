@@ -1,0 +1,7 @@
+dataset,method,avg_summary_words,compression_ratio,avg_time_sec
+hindi,baseline,83.8,0.272,8.4
+hindi,factual,84.4,0.269,9.8
+hindi_cm,baseline,88.0,0.284,11.2
+hindi_cm,factual,83.6,0.271,7.8
+bengali,baseline,66.8,0.152,6.3
+bengali,factual,62.8,0.141,8.4

@@ -1,0 +1,7 @@
+dataset,method,avg_summary_words,compression_ratio,avg_time_sec,avg_entailment,pct_sentences_supported,fact_precision,rouge1_P,rouge1_R,rouge1_F1,rougeL_F1,bert_P,bert_R,bert_F1
+hindi,baseline,83.8,0.272,8.4,0.809,86.7,0.857,0.133,0.424,0.199,0.133,0.671,0.73,0.699
+hindi,factual,84.4,0.269,9.8,0.72,76.3,1.0,0.147,0.455,0.22,0.142,0.674,0.741,0.706
+hindi_cm,baseline,88.0,0.284,11.2,0.724,77.1,1.0,0.13,0.421,0.194,0.132,0.672,0.73,0.7
+hindi_cm,factual,83.6,0.271,7.8,0.697,75.8,1.0,0.139,0.436,0.208,0.138,0.671,0.734,0.701
+bengali,baseline,66.8,0.152,6.3,0.75,76.7,0.857,0.086,0.257,0.127,0.097,0.669,0.735,0.7
+bengali,factual,62.8,0.141,8.4,0.726,78.3,1.0,0.086,0.246,0.124,0.089,0.674,0.736,0.704

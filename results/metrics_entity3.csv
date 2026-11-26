@@ -1,0 +1,7 @@
+dataset,method,supported_items,unsupported_items,fact_precision
+hindi,baseline,6,1,0.857
+hindi,factual,21,0,1.0
+hindi_cm,baseline,10,0,1.0
+hindi_cm,factual,32,0,1.0
+bengali,baseline,18,3,0.857
+bengali,factual,34,0,1.0

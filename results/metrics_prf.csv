@@ -1,0 +1,7 @@
+dataset,method,rouge1_P,rouge1_R,rouge1_F1,rougeL_F1,bert_P,bert_R,bert_F1
+hindi,baseline,0.133,0.424,0.199,0.133,0.671,0.73,0.699
+hindi,factual,0.147,0.455,0.22,0.142,0.674,0.741,0.706
+hindi_cm,baseline,0.13,0.421,0.194,0.132,0.672,0.73,0.7
+hindi_cm,factual,0.139,0.436,0.208,0.138,0.671,0.734,0.701
+bengali,baseline,0.086,0.257,0.127,0.097,0.669,0.735,0.7
+bengali,factual,0.086,0.246,0.124,0.089,0.674,0.736,0.704
