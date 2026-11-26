@@ -1,6 +1,6 @@
 # FactIndic: Factuality-Aware Summarization for Indic and Code-Mixed Languages
 
-CSET 346 - Natural Language Processing, Bennett University
+CSET 346 - Natural Language Processing
 
 **Team:** Kashish Kapoor (S24CSEU1764), Aaditri Chandok (S24CSEU1774), Ananya Bhatia (S24CSEU1979)
 **Instructor:** Dr. Geetanjali Singh
